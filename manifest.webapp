@@ -1,0 +1,31 @@
+{
+  "version": "0.1",
+  "name": "Example APP",
+  "description": "This is a app description",
+  "launch_path": "/index.html",
+  "package_path": "http://www.example.com/apps/example/package.zip",
+  "size": 134144,
+  "icons": {
+    "16": "/img/icons/16.png",
+    "30": "/img/icons/30.png",
+    "32": "/img/icons/32.png",
+    "48": "/img/icons/48.png",
+    "60": "/img/icons/60.png",
+    "64": "/img/icons/64.png",
+    "128": "/img/icons/128.png"
+  },
+  "developer": {
+    "name": "@amirtorrez",
+    "url": "http://twitter.com/amirtorrez"
+  },
+   "installs_allowed_from": ["*"],
+  "default_locale": "en",
+  "locales": {
+    "es": {
+      "description": "Esta es la descripción de la app."
+    },
+    "en": {
+      "description": "This is a app description."
+    }
+  }
+}
