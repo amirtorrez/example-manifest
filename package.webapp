@@ -1,7 +1,7 @@
 {
   "name": "Example APP",
   "package_path": "http://www.example.com/apps/example/package.zip",
-  "size": 134144,
+  "size": 134143,
   "version": "0.1",
   "developer": {
     "name": "@amirtorrez",
