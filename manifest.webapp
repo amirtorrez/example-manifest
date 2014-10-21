@@ -3,6 +3,7 @@
   "name": "Example APP",
   "description": "This is a app description",
   "launch_path": "/index.html",
+  "installs_allowed_from": ["*"],
   "icons": {
     "16": "/img/icons/16.png",
     "30": "/img/icons/30.png",
@@ -15,6 +16,5 @@
   "developer": {
     "name": "@amirtorrez",
     "url": "http://twitter.com/amirtorrez"
-  },
-   "installs_allowed_from": ["*"]
+  }
 }
