@@ -3,8 +3,6 @@
   "name": "Example APP",
   "description": "This is a app description",
   "launch_path": "/index.html",
-  "package_path": "http://www.example.com/apps/example/package.zip",
-  "size": 134144,
   "icons": {
     "16": "/img/icons/16.png",
     "30": "/img/icons/30.png",
