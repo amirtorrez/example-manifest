@@ -1,4 +1,5 @@
 {
+  "version": "0.1",
   "name": "Example APP",
   "description": "This is a app description",
   "launch_path": "/index.html",
