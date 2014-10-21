@@ -1,5 +1,4 @@
 {
-  "version": "0.1",
   "name": "Example APP",
   "description": "This is a app description",
   "launch_path": "/index.html",
@@ -16,14 +15,5 @@
     "name": "@amirtorrez",
     "url": "http://twitter.com/amirtorrez"
   },
-   "installs_allowed_from": ["*"],
-  "default_locale": "en",
-  "locales": {
-    "es": {
-      "description": "Esta es la descripción de la app."
-    },
-    "en": {
-      "description": "This is a app description."
-    }
-  }
+   "installs_allowed_from": ["*"]
 }
