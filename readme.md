@@ -6,4 +6,5 @@ This is a manifest example, to install an APP through RepoZilla APP (https://mar
 - manifest.webapp:  For hosted apps.
 - package.webapp:  For packaged apps.
 
-The size in package.webapp is in bytes.
+The "size" in package.webapp, is the size of zip file in bytes.
+The "size" in manifest.webapp, is the size of manifest.webapp file in bytes.
